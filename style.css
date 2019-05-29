@@ -235,6 +235,9 @@ if the screen exceeds the size (mobile size) then the screen will change
     margin: 1%;
     display: inline-block;
   }
+ .main-nav{
+        display: block;
+    }
   .contentheader{
     padding: 1% 5%;
     background-image: linear-gradient(to right, #052347 0%, #80c0df 100%);
